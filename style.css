@@ -92,6 +92,7 @@ input button {
 @media screen and(max-width:830Px) {
   body {
     padding: 0 0 0 0;
+    background-color: white;
   }
   .container {
     width: 100vw;
